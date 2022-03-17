@@ -29,6 +29,7 @@ Data, however, has no meaning without context. It remains questionable how these
 
 Landslide management is already a big issue in Hong Kong, but the use of AI can help to transform it. There are several research projects about that right now.
 
+
 ### Case Pitch
 Insert your Pitch Video or Slides here
 
@@ -37,7 +38,8 @@ Insert materials from your Deep Dives here
 
 ### Further Information
 
-We will use the zindi-platform to evaluate the coding part of the submission. There you can upload as many submissions as you want and will see a real-time ranking of your solution compared to others. This helps you to evaluate your solution and see if you should focus more on the technical or entrepreneurial side of the hack. 
+We will use the zindi-platform to evaluate the coding part of the submission. There you can upload as many submissions as you want and will see a real-time ranking of your solution compared to others. This helps you to evaluate your solution and see if you should focus more on the technical or entrepreneurial side of the hack.
+
 
 ### Resources
 
@@ -54,9 +56,23 @@ You want the participants to spend as much time as possible focusing on the more
 
 ### Judging Criteria
 
+We will evaluate your solution based on the technical sophistication and entrepreneurial spirit surrounding it. One tip for evaluating your technical model is using zindi for real-time ranking and the current F1-Score of your submission. So you know whether to work more on the model or the creative solutions you are envisioning.
+
+You will find the detailed criteria down here in the table: 
+
+| Evaluation Criteria        | Description           | Weight [%]  |
+| ------------- |:-------------:| -----:|
+| Complexity and Technical Sophistication   | How good is the quantifiable solution of the hack? For the START Hack we use the error metric called F1 score. This score ranges from 0 (total failure) to 1 which is a perfect score indicating perfect precision and recall. Highest F1-Score will reach 100 % in this category, other teams are evaluated against a benchmark and baseline. | 60 |
+| Feasibility and Usability   | What steps are necessary to make this solution a reality? Here we look at the reproducibility of other situations and how users without a deep technical background can adapt these solutions.      | 10 |
+| Potential in harnessing modern technologies | o	Modern technologies are diverse and also include IoT-enabled devices or drones? Are other technologies meaningfully integrated into the context and can they provide further benefits for landslide management? | 10 |
+| Creativity, Innovation and Vision | How original are these ideas and how could they revolutionize landslide management in Hong Kong? A holistic approach with the consideration of many stakeholders, applications and a look into the future is required!? | 10 |
+| •	Delivered Presentation  |o	How successful is the team's presentation? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? | 10 |
 
 
-### Point of Contact
+
+
+
+### Points of Contact, just click on the picure to open the video :D
 
 Meet Muralee (Head of the branch Crisis Management Branch at UNEP) here:
 

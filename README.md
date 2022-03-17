@@ -64,9 +64,11 @@ Meet Paula (Project Coordinator for Modern Technologies at UNEP) here:
 
 Meet Darius (Data Science expert from zindi) here:
 
-(online) Haojie (PhD Geoscience at Hong Kong University of Science and Technology) here:
+[online] Haojie (PhD Geoscience at Hong Kong University of Science and Technology) here:
 
 Meet Arielle (Master degree in Technology Law) here:
+
+[online] Meet Eike (Cand. Master of Environmental Policy and Law) here:
 
 Meet Abhijith (Bachelor degree in Law) here: 
 

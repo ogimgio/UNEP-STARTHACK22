@@ -66,7 +66,7 @@ You will find the detailed criteria down here in the table:
 | Feasibility and Usability   | What steps are necessary to make this solution a reality? Here we look at the reproducibility of other situations and how users without a deep technical background can adapt these solutions.      | 10 |
 | Potential in harnessing modern technologies | o	Modern technologies are diverse and also include IoT-enabled devices or drones? Are other technologies meaningfully integrated into the context and can they provide further benefits for landslide management? | 10 |
 | Creativity, Innovation and Vision | How original are these ideas and how could they revolutionize landslide management in Hong Kong? A holistic approach with the consideration of many stakeholders, applications and a look into the future is required!? | 10 |
-| •	Delivered Presentation  |o	How successful is the team's presentation? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? | 10 |
+| Delivered Pitch and Q&A  |o	How successful is the team's presentation? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? | 10 |
 
 
 

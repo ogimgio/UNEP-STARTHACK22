@@ -10,11 +10,15 @@ The core of our challenge is to design and shape the future of landslide prevent
 
 Help us detect real disasters in the future to save lives!
 
+***
+
 ### Hong Kong is challenged by landslides
 
 Hong Kong, one of the hilliest and most densely populated cities in the world, is frequently hit by extreme rainfall and is therefore highly susceptible to rain-induced landslides. A landslide is the movement of masses of rock, debris, or earth down a slope and can result in significant loss of life and property.  A high-quality landslide inventory is essential not only for landslide hazard and risk analysis but also for supporting agency decisions on landslide hazard mitigation and prevention.
 
 As the common practice is visual, labour-intensive inspection, this hack focuses on automating landslide identification using artificial intelligence techniques and embedding this solution into the creative vision: “Harnessing the power of modern technologies to address landslide-management in Hong Kong”
+
+***
  
  ### Expected final product 
  
@@ -29,17 +33,24 @@ Data, however, has no meaning without context. It remains questionable how these
 
 Landslide management is already a big issue in Hong Kong, but the use of AI can help to transform it. There are several research projects about that right now.
 
+***
+
 
 ### Case Pitch
 Insert your Pitch Video or Slides here
 
+***
+
 ### Deep Dive Slides
 Insert materials from your Deep Dives here
+
+***
 
 ### Further Information
 
 We will use the zindi-platform to evaluate the coding part of the submission. There you can upload as many submissions as you want and will see a real-time ranking of your solution compared to others. This helps you to evaluate your solution and see if you should focus more on the technical or entrepreneurial side of the hack.
 
+***
 
 ### Resources
 
@@ -53,6 +64,8 @@ The choice of the exact approach is left to the students. All required data and 
 Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
 
 You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+
+***
 
 ### Judging Criteria
 
@@ -69,7 +82,7 @@ You will find the detailed criteria down here in the table:
 | Delivered Pitch and Q&A  |o	How successful is the team's presentation? Is it clear what the team wanted to achieve and do the other evaluation criteria play in the same direction? Is the team spirit recognizable? | 10 |
 
 
-
+***
 
 
 ### Points of Contact, just click on the picure to open the video :D
@@ -115,9 +128,12 @@ Meet Thomas (undergraduate student in Scientific Computing and Data Analysis) he
 Meet Dominik (graduate student in Mechanical Engineering and Business Administration) here:
 
 
+***
 
 ### Mentor Availability
 List the expected availability of your mentors (phyiscal and on Discord)
+
+***
 
 ### Prize
 

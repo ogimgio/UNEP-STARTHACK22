@@ -93,10 +93,10 @@ List the expected availability of your mentors (phyiscal and on Discord)
 
 The winning team will get four DJI Mini 2 drones with which landscapes or people are photographed from above. Perhaps there are also landslides included ;D
 
-![grafik](https://raw.githubusercontent.com/UNEP-ModernTech/UNEP-Hackathon/main/HK_Landslide.webp?token=GHSAT0AAAAAABSLYOFBR2ZZ73HR6XDGT76OYRQWK7Q) 
-![grafik](https://raw.githubusercontent.com/UNEP-ModernTech/UNEP-Hackathon/main/HK_Landslide.webp?token=GHSAT0AAAAAABSLYOFBR2ZZ73HR6XDGT76OYRQWK7Q) 
+![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
+![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
 
 Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another four fitness watches. This is the Huawei Band 6, two of them in black and two in sakura pink. 
 
-![grafik](https://raw.githubusercontent.com/UNEP-ModernTech/UNEP-Hackathon/main/HK_Landslide.webp?token=GHSAT0AAAAAABSLYOFBR2ZZ73HR6XDGT76OYRQWK7Q)
-![grafik](https://raw.githubusercontent.com/UNEP-ModernTech/UNEP-Hackathon/main/HK_Landslide.webp?token=GHSAT0AAAAAABSLYOFBR2ZZ73HR6XDGT76OYRQWK7Q) 
+![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
+![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")

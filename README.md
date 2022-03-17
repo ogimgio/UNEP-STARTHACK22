@@ -68,23 +68,32 @@ Meet Darius (Data Science expert from zindi) here:
 
 Meet Arielle (Master degree in Technology Law) here:
 
-[online] Meet Eike (Cand. Master of Environmental Policy and Law) here:
+[online] Meet Eike (graduate student in Environmental Policy and Law) here:
 
-Meet Abhijith (Bachelor degree in Law) here: 
+
+Meet Abhijith (LLB Law; Chess Start-Up Founder) here: 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G3UULaRk6wI/0.jpg)](https://youtu.be/G3UULaRk6wI) 
 
 Meet Matheus (Master degree in International Law) here:
 
-Meet Melissa (student in Computer Science) here:
+Meet Melissa (graduate student in Computer Science) here:
 
-Meet Maxime (student in Robotics) here:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A0UcZE_rK9I/0.jpg)](https://youtu.be/A0UcZE_rK9I) 
 
-Meet Aman (student in Geoscience) here:
 
-Meet Thomas (student in Scientific Computing and Data Analysis) here:
+Meet Maxime (graduate student in Robotics) here:
 
-Meet Dominik (student in Mechanical Engineering and Business Administration) here:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y32XELnHIPg/0.jpg)](https://youtu.be/y32XELnHIPg) 
+
+Meet Aman (graduate student in Geoscience) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wHMP_oEmznA/0.jpg)](https://youtu.be/wHMP_oEmznA) 
+
+
+Meet Thomas (undergraduate student in Scientific Computing and Data Analysis) here:
+
+Meet Dominik (graduate student in Mechanical Engineering and Business Administration) here:
 
 
 

@@ -6,7 +6,7 @@ The core of our challenge is to design and shape the future of landslide prevent
 
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
 
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
+![alt text] (https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TBBWRPQXLGOQDOKVIYRTL3XA "Credits to Hong Kong Government")
 
 Help us detect real disasters in the future to save lives!
 

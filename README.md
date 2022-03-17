@@ -93,10 +93,10 @@ List the expected availability of your mentors (phyiscal and on Discord)
 
 The winning team will get four DJI Mini 2 drones with which landscapes or people are photographed from above. Perhaps there are also landslides included ;D
 
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg)
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg)
 
-Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another four fitness watches. This is the Huawei Band 6, two of them in black and two in sakura pink. 
+Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another four fitness watches. This is the Huawei Band 6, four of them in black.
 
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36TZV77U27ZAY55V4MIYRTC2LA "Credits to Hong Kong Government")
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg)
+![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Champagne.webp?token=GHSAT0AAAAAABSTH36TPBWWSZ4JMVEPKFMEYRTL27Q)

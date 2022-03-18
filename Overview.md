@@ -26,7 +26,7 @@ As the **common practice is visual, labour-intensive inspection**, this hack foc
  
  ### Expected final product 
  
-> During the hack you can submit unlimited coding submissions with real-time-ranking on the zindi platform, but only the final one will count and has to be sent together with the pitch to dominik.bisslich@un.org before 25.03.2022 10:00 CET. We also ask you for two draft submissions on the 24th with the code and pitch, the first at 10:00 CET and 22:00 CET. It doesn't have to be perfect, we would like to track your progess, guide you and support you as best as possible. 
+> During the hack you can submit unlimited coding submissions with real-time-ranking on the zindi platform, but only the final one will count and has to be sent together with the pitch to `dominik.bisslich@un.org` before 25.03.2022 10:00 CET``. We also ask you for two draft submissions on the 24th with the code and pitch, the first at `10:00 CET` and `22:00 CET`. It doesn't have to be perfect, we would like to track your progess, guide you and support you as best as possible. 
  
 Our vision is to **rethink landslide management** in Hong Kong and integrate and make sense of modern technologies. Not only is quantification important, but also an entrepreneurial and innovative approach. The final product is therefore a vision of landslide management presented in **5 minutes based on classified input parameters using machine learning/deep learning.** After that we got a short 3 min Q&A-session with our experts. 
  

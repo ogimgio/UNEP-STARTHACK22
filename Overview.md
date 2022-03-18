@@ -98,6 +98,8 @@ Meet **Darius** (Data Science expert from zindi) here:
 
 Meet **Arielle** (Master degree in Technology Law) here:
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1uwDp3rLMAo/0.jpg)](https://youtu.be/1uwDp3rLMAo) 
+
 [online] Meet **Eike** (graduate student in Environmental Policy and Law) here:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i8B_FdIkWzg/0.jpg)](https://youtu.be/i8B_FdIkWzg) 
@@ -107,6 +109,8 @@ Meet **Abhijith** (LLB Law; Chess Start-Up Founder) here:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G3UULaRk6wI/0.jpg)](https://youtu.be/G3UULaRk6wI) 
 
 Meet **Matheus** (Master degree in International Law) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lJYLa-rBVn8/0.jpg)](https://youtu.be/lJYLa-rBVn8) 
 
 Meet **Melissa** (graduate student in Computer Science) here:
 
@@ -125,6 +129,8 @@ Meet **Aman** (graduate student in Geoscience) here:
 Meet **Thomas** (undergraduate student in Scientific Computing and Data Analysis) here:
 
 Meet **Dominik** (graduate student in Mechanical Engineering and Business Administration) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h3RTu4CWk2k/0.jpg)](https://youtu.be/h3RTu4CWk2k) 
 
 
 ***

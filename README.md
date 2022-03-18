@@ -139,9 +139,10 @@ The winning team will get **four DJI Mini 2 drones** with which landscapes or pe
 Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another **four fitness watches**. This is the Huawei Band 6, four of them in black. After all it is also a competition and winning this is a reason to celebrate, so we threw in a **bottle of Moet & Chandon Imperial Champagne**. Enjoy and celebrate yourself. 
 
 ![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg)
-![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg)
 
-<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg" width="200">
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg" width="600">
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg" width="600">
 
-![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg)
-![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Champagne.jpg)
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg" width="600">
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Champagne.jpg" width="600">
+

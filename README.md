@@ -102,6 +102,7 @@ Meet Arielle (Master degree in Technology Law) here:
 
 [online] Meet Eike (graduate student in Environmental Policy and Law) here:
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i8B_FdIkWzg/0.jpg)](https://youtu.be/i8B_FdIkWzg) 
 
 Meet Abhijith (LLB Law; Chess Start-Up Founder) here: 
 

@@ -4,11 +4,15 @@
 
 The core of our challenge is to design and shape the future of **landslide prevention and management** with the example of **Hong Kong**.
 
+> The important dataset related documents in this repository are named `Case Description`, `Data Dictionary`, `Test.csv`, `Train.csv`, and `Sample_Submission.csv`.
+
+
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
 
 ![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/HK_Landslide.jpg "Credits to Hong Kong Government")
 
 Help us detect real disasters in the future **to save lives!**
+
 
 ***
 

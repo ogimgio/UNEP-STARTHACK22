@@ -2,7 +2,7 @@
 
 ## Case Introduction
 
-The core of our challenge is to design and shape the future of landslide prevention and management with the example of Hong Kong.
+The core of our challenge is to design and shape the future of `landslide prevention and management` with the example of Hong Kong.
 
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
 
@@ -24,7 +24,7 @@ As the common practice is visual, labour-intensive inspection, this hack focuses
  
 Our vision is to rethink landslide management in Hong Kong and integrate and make sense of modern technologies. Not only is quantification important, but also an entrepreneurial and innovative approach. The final product is therefore a vision of landslide management presented in 5 minutes based on classified input parameters using machine learning/deep learning. After that we got a short 3 min Q&A-session with our experts. 
  
- #### During the hack you can submit unlimited coding submissions with real-time-ranking on the zindi platform, but only the final one will count and has to be sent together with the pitch to dominik.bisslich@un.org before 25.03.2022 10:00 CET. We also ask you for two draft submissions on the 24th with the code and pitch, the first at 10:00 CET and 22:00 CET. It doesn't have to be perfect, we would like to track your progess, guide you and support you as best as possible. 
+> During the hack you can submit unlimited coding submissions with real-time-ranking on the zindi platform, but only the final one will count and has to be sent together with the pitch to dominik.bisslich@un.org before 25.03.2022 10:00 CET. We also ask you for two draft submissions on the 24th with the code and pitch, the first at 10:00 CET and 22:00 CET. It doesn't have to be perfect, we would like to track your progess, guide you and support you as best as possible. 
  
  
 Building on our shared vision, the first step is to analyse the provided dataset and perform binary classification of landslides. Which input parameters such as precipitation intensity or slopes are more likely to cause landslides? For this purpose, we provide one dataset for training and one for testing.  The choice of approach is up to you, whether machine learning or deep learning. We want to identify the variables that make landslides possible and use them to identify risk areas. Because of the wide range of possible analyses and influences, this task can be performed by people of all experience levels, from novices to those with extensive coding training. Machine learning knowledge is desirable, but not essential. The evaluation of this task runs on a F1 score, the highest wins this task.

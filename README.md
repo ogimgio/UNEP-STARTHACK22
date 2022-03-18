@@ -6,7 +6,7 @@ The core of our challenge is to design and shape the future of landslide prevent
 
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
 
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/HK_Landslide.webp?token=GHSAT0AAAAAABSTH36SVIILJBX23NDCBDRKYRTL5MA "Credits to Hong Kong Government")
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/HK_Landslide.jpg "Credits to Hong Kong Government")
 
 Help us detect real disasters in the future to save lives!
 
@@ -143,7 +143,7 @@ The winning team will get four DJI Mini 2 drones with which landscapes or people
 ![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg)
 ![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg)
 
-Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another four fitness watches. This is the Huawei Band 6, four of them in black.
+Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another four fitness watches. This is the Huawei Band 6, four of them in black. After all it is also a competition and winning this is a reason to celebrate, so we threw in a bottle of Moet & Chandon Imperial Champagne. Enjoy and celebrate yourself. 
 
 ![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg)
-![alt text](https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Champagne.webp?token=GHSAT0AAAAAABSTH36TPBWWSZ4JMVEPKFMEYRTL27Q)
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Champagne.jpg)

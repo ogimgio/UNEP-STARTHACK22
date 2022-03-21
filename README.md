@@ -88,6 +88,31 @@ You will find the **detailed criteria** down here in the table:
 
 ### Points of Contact, just click on the picure to open the video :D
 
+`Hack Mentors`
+
+Meet **Darius** (Data Science expert from zindi) here:
+
+[online] **Haojie** (PhD Geoscience at Hong Kong University of Science and Technology) here:
+
+
+Meet **Melissa** (graduate student in Computer Science) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A0UcZE_rK9I/0.jpg)](https://youtu.be/A0UcZE_rK9I) 
+
+
+Meet **Maxime** (graduate student in Robotics) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y32XELnHIPg/0.jpg)](https://youtu.be/y32XELnHIPg) 
+
+
+Meet **Dominik** (graduate student in Mechanical Engineering and Business Administration) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h3RTu4CWk2k/0.jpg)](https://youtu.be/h3RTu4CWk2k) 
+
+
+`Experts in Disaster Management, Law, Emergency Response, and Project Management` 
+
+
 Meet **Muralee** (Head of the branch Crisis Management Branch at UNEP) here:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GegmJN2b3Jw/0.jpg)](https://youtu.be/GegmJN2b3Jw) 
@@ -96,10 +121,6 @@ Meet **Muralee** (Head of the branch Crisis Management Branch at UNEP) here:
 Meet **Paula** (Project Coordinator for Modern Technologies at UNEP) here: 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4xvXky9p5IM/0.jpg)](https://youtu.be/4xvXky9p5IM) 
-
-Meet **Darius** (Data Science expert from zindi) here:
-
-[online] **Haojie** (PhD Geoscience at Hong Kong University of Science and Technology) here:
 
 Meet **Arielle** (Master degree in Technology Law) here:
 
@@ -117,14 +138,6 @@ Meet **Matheus** (Master degree in International Law) here:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lJYLa-rBVn8/0.jpg)](https://youtu.be/lJYLa-rBVn8) 
 
-Meet **Melissa** (graduate student in Computer Science) here:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A0UcZE_rK9I/0.jpg)](https://youtu.be/A0UcZE_rK9I) 
-
-
-Meet **Maxime** (graduate student in Robotics) here:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y32XELnHIPg/0.jpg)](https://youtu.be/y32XELnHIPg) 
 
 Meet **Aman** (graduate student in Geoscience) here:
 
@@ -136,15 +149,12 @@ Meet **Thomas** (undergraduate student in Scientific Computing and Data Analysis
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nijqPxil2fI/0.jpg)](https://youtu.be/nijqPxil2fI) 
 
 
-Meet **Dominik** (graduate student in Mechanical Engineering and Business Administration) here:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h3RTu4CWk2k/0.jpg)](https://youtu.be/h3RTu4CWk2k) 
-
-
 ***
 
 ### Mentor Availability
 List the expected availability of your mentors (phyiscal and on Discord)
+
+
 
 
 

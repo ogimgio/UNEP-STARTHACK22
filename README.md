@@ -35,7 +35,7 @@ Building on our shared vision, the **first step** is to analyse the provided dat
 
 Data, however, has no meaning without context. It remains questionable how these can be used. To make our vision become true we also need creative entrepreneurs that have the ability to innovate and rethink without boundaries. For example, can other data be used, can networking with other emergency services be made possible, can this format be transferred to other countries or cities? We deliberately did not give a focus here, but simply addressed **"Harnessing the power of modern technologies."**
 
-Landslide management is already a big issue in Hong Kong, but the use of AI can help to transform it. There are several research projects about that right now. The dataset was created by HKUST.
+Landslide management is already a big issue in Hong Kong, but the use of AI can help to transform it. There are several research projects about that right now. The dataset was created by Hong Kong University of Science and Technology.
 
 ***
 

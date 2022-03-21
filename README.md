@@ -150,7 +150,12 @@ You will find the **detailed criteria** down here in the table:
 ***
 
 ### Mentor Availability
-List the expected availability of your mentors (phyiscal and on Discord)
+
+All our Hack Mentors except for Haojie will be on Discord and present during the Hack. In the first three hours of the Hack, before the sample submissions and the four final hours we will be available at our table at the hack.
+
+You can always contact us or our experts. If someone is attending online, we stated that in the description. Otherwise we are happy to set up a meeting and guarantee for changing roles at our table so you have a chance to meet everyone.
+
+Feel free to reach out!
 
 
 

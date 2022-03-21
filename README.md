@@ -146,7 +146,7 @@ List the expected availability of your mentors (phyiscal and on Discord)
 
 The winning team will get **four DJI Mini 2 drones** with which landscapes or people are photographed from above. Perhaps there are also landslides included ;D
 
-Since a hackathon always brings you to your limits, you overcome them and this can go to your own health, we would like to promote this after the hackathon. That's why we are adding another **four fitness watches**. This is the Huawei Band 6, four of them in black. After all it is also a competition and winning this is a reason to celebrate, so we threw in a **bottle of Moet & Chandon Imperial Champagne**. Enjoy and celebrate yourself. 
+Since you always learn something in a challenge and it will be hard to pick a winner, the runner-up team will also get something. A hackathon always brings you to your limits, you cross them and this can go to your own health, we would like to promote your wellbeing after the hackathon. That's why we are adding  **four fitness watches**. This is the Huawei Band 6, four of them in black. Enjoy and celebrate yourself. 
 
 
 

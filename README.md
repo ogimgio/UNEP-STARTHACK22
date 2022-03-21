@@ -41,12 +41,15 @@ Landslide management is already a big issue in Hong Kong, but the use of AI can 
 
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
+
+You will see the Case Pitch live at the Stage around 6 PM on Wednesday, 23rd of March. We will upload the slides after that. 
 
 ***
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+
+The slides for the two deep dives, the technical one and the disaster-management related one, will be uploaded after the presentation on Wednesday, the 23rd of March at around 10 PM. However we strongly encourage you to attend these presentations to catch a glimpse of the team and the possibility to ask questions directly after. 
+
 
 ***
 

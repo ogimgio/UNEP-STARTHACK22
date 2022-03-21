@@ -50,7 +50,7 @@ You will see the Case Pitch live at the Stage around 6 PM on Wednesday, 23rd of 
 
 The slides for the two deep dives, the technical one and the disaster-management related one, will be uploaded after the presentation on Wednesday, the 23rd of March at around 10 PM. However we strongly encourage you to attend these presentations to catch a glimpse of the team and the possibility to ask questions directly after. 
 
-https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Media/Technical%20Introduction_By%20Prof%20Limin%20Zhang%20of%20HKUST.mp4?token=GHSAT0AAAAAABSTH36TGKSREO2AH7MZPINIYRYRWYA 
+> Video from HKUST:https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Media/Technical%20Introduction_By%20Prof%20Limin%20Zhang%20of%20HKUST.mp4?token=GHSAT0AAAAAABSTH36TBJISPNWDTRWGF4ZKYRYRYOQ 
 
 
 ***
@@ -110,7 +110,7 @@ You will find the **detailed criteria** down here in the table:
 
 `[online] Haojie (PhD Geoscience at Hong Kong University of Science and Technology) via https://cehjwang.github.io/:`
 
-hhttps://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Media/Technical%20Introduction_By%20Prof%20Limin%20Zhang%20of%20HKUST.mp4?token=GHSAT0AAAAAABSTH36TGKSREO2AH7MZPINIYRYRWYA  
+> Deep-Dive by HKUST https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Media/Technical%20Introduction_By%20Prof%20Limin%20Zhang%20of%20HKUST.mp4?token=GHSAT0AAAAAABSTH36TGKSREO2AH7MZPINIYRYRWYA  
 
 ### Meet our experts in Disaster Management, Law, Emergency Response, and Project Management here, just click on the picure to open the video :D 
 

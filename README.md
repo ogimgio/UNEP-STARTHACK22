@@ -2,6 +2,8 @@
 
 ## Case Introduction
 
+https://raw.githubusercontent.com/START-Hack/UNEP-STARTHACK22/main/Media/Technical%20Introduction_By%20Prof%20Limin%20Zhang%20of%20HKUST.mp4?token=GHSAT0AAAAAABSTH36SKHP7YTEDTZMCZSDEYRYVWQA 
+
 The core of our challenge is to design and shape the future of **landslide prevention and management** with the example of **Hong Kong**.
 
 > The important dataset related documents in this repository in the folder Dataset are named `Case Description`, `Data Dictionary`, `Test.csv`, `Train.csv`, and `Sample_Submission.csv`.

@@ -155,5 +155,4 @@ Since you always learn something in a challenge and it will be hard to pick a wi
 
 <img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg" width="1200">
 <img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg" width="600"> <img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg" width="600">
-<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Champagne.jpg" width="600">
 

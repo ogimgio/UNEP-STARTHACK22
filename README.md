@@ -9,7 +9,7 @@ The core of our challenge is to design and shape the future of **landslide preve
 
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
 
-![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/HK_Landslide.jpg "Credits to Hong Kong Government")
+![alt text](https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Media/HK_Landslide.jpg "Credits to Hong Kong Government")
 
 Help us detect real disasters in the future **to save lives!**
 
@@ -166,6 +166,6 @@ Since you always learn something in a challenge and it will be hard to pick a wi
 
 
 
-<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI_Mini_2.jpg" width="1200">
-<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/DJI-Mini-2-flying.jpg" width="600"> <img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Huawei_Band_6.jpg" width="600">
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Media/DJI_Mini_2.jpg" width="1200">
+<img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Media/DJI-Mini-2-flying.jpg" width="600"> <img src="https://github.com/START-Hack/UNEP-STARTHACK22/blob/main/Media/Huawei_Band_6.jpg" width="600">
 

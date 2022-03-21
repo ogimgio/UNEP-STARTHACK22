@@ -95,6 +95,8 @@ Meet **Muralee** (Head of the branch Crisis Management Branch at UNEP) here:
 
 Meet **Paula** (Project Coordinator for Modern Technologies at UNEP) here: 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4xvXky9p5IM/0.jpg)](https://youtu.be/4xvXky9p5IM) 
+
 Meet **Darius** (Data Science expert from zindi) here:
 
 [online] **Haojie** (PhD Geoscience at Hong Kong University of Science and Technology) here:
@@ -130,6 +132,9 @@ Meet **Aman** (graduate student in Geoscience) here:
 
 
 Meet **Thomas** (undergraduate student in Scientific Computing and Data Analysis) here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nijqPxil2fI/0.jpg)](https://youtu.be/nijqPxil2fI) 
+
 
 Meet **Dominik** (graduate student in Mechanical Engineering and Business Administration) here:
 

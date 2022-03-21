@@ -91,8 +91,6 @@ You will find the **detailed criteria** down here in the table:
 
 `Meet Darius (Data Science expert from zindi) here:`
 
-`[online] Haojie (PhD Geoscience at Hong Kong University of Science and Technology) here:`
-
 
 `Meet Melissa (graduate student in Computer Science) here:`
 
@@ -107,6 +105,8 @@ You will find the **detailed criteria** down here in the table:
 `Meet Dominik (graduate student in Mechanical Engineering and Business Administration) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h3RTu4CWk2k/0.jpg)](https://youtu.be/h3RTu4CWk2k) 
+
+`[online] Haojie (PhD Geoscience at Hong Kong University of Science and Technology) via https://cehjwang.github.io/:`
 
 
 ### Meet our experts in Disaster Management, Law, Emergency Response, and Project Management here, just click on the picure to open the video :D 

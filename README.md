@@ -89,60 +89,60 @@ You will find the **detailed criteria** down here in the table:
 ### Meet your Hack Mentors here, just click on the picure to open the video :D
 
 
-`Meet **Darius** (Data Science expert from zindi) here:`
+`Meet Darius (Data Science expert from zindi) here:`
 
-[online] **Haojie** (PhD Geoscience at Hong Kong University of Science and Technology) here:
+`[online] Haojie (PhD Geoscience at Hong Kong University of Science and Technology) here:`
 
 
-`Meet **Melissa** (graduate student in Computer Science) here:`
+`Meet Melissa (graduate student in Computer Science) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A0UcZE_rK9I/0.jpg)](https://youtu.be/A0UcZE_rK9I) 
 
 
-`Meet **Maxime** (graduate student in Robotics) here:`
+`Meet Maxime (graduate student in Robotics) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y32XELnHIPg/0.jpg)](https://youtu.be/y32XELnHIPg) 
 
 
-`Meet **Dominik** (graduate student in Mechanical Engineering and Business Administration) here:`
+`Meet Dominik (graduate student in Mechanical Engineering and Business Administration) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h3RTu4CWk2k/0.jpg)](https://youtu.be/h3RTu4CWk2k) 
 
 
 ### Meet our experts in Disaster Management, Law, Emergency Response, and Project Management here, just click on the picure to open the video :D 
 
-`Meet **Muralee** (Head of the branch Crisis Management Branch at UNEP) here:`
+`Meet Muralee (Head of the branch Crisis Management Branch at UNEP) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GegmJN2b3Jw/0.jpg)](https://youtu.be/GegmJN2b3Jw) 
 
 
-`Meet **Paula** (Project Coordinator for Modern Technologies at UNEP) here:` 
+`Meet Paula (Project Coordinator for Modern Technologies at UNEP) here:` 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4xvXky9p5IM/0.jpg)](https://youtu.be/4xvXky9p5IM) 
 
-`Meet **Arielle** (Master degree in Technology Law) here:`
+`Meet Arielle (Master degree in Technology Law) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1uwDp3rLMAo/0.jpg)](https://youtu.be/1uwDp3rLMAo) 
 
-`[online] Meet **Eike** (graduate student in Environmental Policy and Law) here:`
+`[online] Meet Eike (graduate student in Environmental Policy and Law) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i8B_FdIkWzg/0.jpg)](https://youtu.be/i8B_FdIkWzg) 
 
-`Meet **Abhijith** (LLB Law; Chess Start-Up Founder) here:`
+`Meet *bhijith (LLB Law; Chess Start-Up Founder) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G3UULaRk6wI/0.jpg)](https://youtu.be/G3UULaRk6wI) 
 
-`Meet **Matheus** (Master degree in International Law) here:`
+`Meet Matheus (Master degree in International Law) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lJYLa-rBVn8/0.jpg)](https://youtu.be/lJYLa-rBVn8) 
 
 
-`Meet **Aman** (graduate student in Geoscience) here:`
+`Meet Aman (graduate student in Geoscience) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wHMP_oEmznA/0.jpg)](https://youtu.be/wHMP_oEmznA) 
 
 
-`Meet **Thomas** (undergraduate student in Scientific Computing and Data Analysis) here:`
+`Meet Thomas (undergraduate student in Scientific Computing and Data Analysis) here:`
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nijqPxil2fI/0.jpg)](https://youtu.be/nijqPxil2fI) 
 

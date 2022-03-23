@@ -63,7 +63,7 @@ The slides for the two deep dives, the technical one and the disaster-management
 
 ### Resources
 
-The data set is provided in a .csv file. The only hardware component required is a computer and a programming environment (Python, R, Stata...) or data analysis tools (Excel...). We strongly encourage to use **goolge colab** to to increase your own computing power. 
+The data set is provided in a .csv file. The only hardware component required is a computer and a programming environment (Python, R, Stata...) or data analysis tools (Excel...). We strongly encourage to use **Google Colab** to to increase your own computing power. 
 
 The choice of the exact approach is left to the students. All required data and information will be published in this repository. For the presentation of your results you have a total of 7 minutes with a format of your choice. This can be a PowerPoint presentation, a role play, or something else entirely. After that there will be a short Q&A-session lasting about 3 minutes with the experts in Natural Disaster Management and the Hack mentors.
 

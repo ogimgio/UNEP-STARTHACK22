@@ -93,7 +93,7 @@ You will find the **detailed criteria** down here in the table:
 
 `Meet Darius (Data Science expert from zindi) here:`
 
-https://youtu.be/CbxL-bd1avA
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CbxL-bd1avA/0.jpg)](https://youtu.be/CbxL-bd1avA) 
 
 `Meet Melissa (graduate student in Computer Science) here:`

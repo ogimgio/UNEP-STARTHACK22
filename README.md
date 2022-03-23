@@ -5,7 +5,7 @@
 
 The core of our challenge is to design and shape the future of **landslide prevention and management** with the example of **Hong Kong**.
 
-> The important dataset related documents in this repository in the folder Dataset are named `Case Description`, `Data Dictionary`, `Test.csv`, `Train.csv`, and `Sample_Submission.csv`.
+> The important dataset related documents in this repository in the folder Dataset are named `Case Description`, `Data Dictionary`, `Test.csv`, `Train.csv`, and `Sample_Submission.csv`. Find the Zindi Platform here https://zindi.africa/hackathons/start-hack-22 
 
 
 [Here you can find a great article from bbc why this is an urgent topic!](https://www.bbc.com/future/article/20220225-how-hong-kong-protects-people-from-its-deadly-landslides) 
